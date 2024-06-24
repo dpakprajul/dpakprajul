@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dpakprajul
 - 👀 I’m interested in Webmapping and Deep Learning
-- 🌱 I am a recent master's graduate in Geomatics
+- 🌱 I am a master's graduate in Geomatics and working currently full time
 - 📫 You can reach me: deepak.parajuli002@gmail.com
 
 <!---
